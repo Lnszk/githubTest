@@ -23,7 +23,8 @@ public class Carta
     // public void SetNome(string nome)
     // {
     //     this.nome = nome;
-    // }
+    // } 
+    // test changes
 
     public void Usar() 
     {
